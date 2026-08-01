@@ -1,0 +1,9 @@
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+python-dotenv>=1.0.0
+pydantic[email]>=2.5.3
+supabase>=2.3.4
+pyjwt[crypto]>=2.8.0
+cryptography>=41.0.7
+python-multipart>=0.0.6
+requests>=2.31.0
